@@ -1,1 +1,2 @@
 CoC.zip filter=lfs diff=lfs merge=lfs -text
+Visual_Studio_Code_Portable_mingw64-gcc_11.2.0_x64_v1.1beta.zip filter=lfs diff=lfs merge=lfs -text
